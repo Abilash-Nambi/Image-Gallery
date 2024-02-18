@@ -19,7 +19,7 @@ Installation
 Clone the repository:
 
 
-git clone [https://github.com/your-username/Express-React-MUI-Image-Gallery.git](https://github.com/Abilash-Nambi/Image-Gallery.git)
+git clone https://github.com/Abilash-Nambi/Image-Gallery.git
 Navigate to the project directory:
 
 
