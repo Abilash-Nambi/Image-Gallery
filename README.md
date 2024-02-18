@@ -2,7 +2,10 @@
 
 <p id="description">A responsive image gallery crafted with Express React and Material-UI enhanced with Multer for efficient file uploads. Seamlessly read and display images with ReadFile providing a smooth user experience in a modern and intuitive interface.</p>
 
-  
+
+https://github.com/Abilash-Nambi/Image-Gallery/assets/142148604/83b8be21-85db-4ca0-b084-a06e9ecae4a9
+
+
   
 <h2>🧐 Features</h2>
 
