@@ -2,15 +2,16 @@ Express-React-MUI-Image-Gallery
 A dynamic image gallery project built with Multer for file uploads, Express for server-side handling, React for the frontend, and Material-UI (MUI) for a sleek and responsive user interface.
 
 Features
-Efficient File Uploads: Utilize Multer for seamless and efficient file uploads.
-Server-Side Logic: Leverage Express for robust server-side handling and logic.
-Modern UI with Material-UI: Craft a modern and intuitive user interface using React and Material-UI components.
-ReadFile Integration: Ensure smooth reading and display of images in the gallery.
-Loader with Uploading Status: Display a loader to indicate the uploading status during file uploads.
-Image Modal: Click on an image to view it in a modal for a more detailed look.
+> Efficient File Uploads: Utilize Multer for seamless and efficient file uploads.
+> Server-Side Logic: Leverage Express for robust server-side handling and logic.
+> Modern UI with Material-UI: Craft a modern and intuitive user interface using React and Material-UI components.
+> ReadFile Integration: Ensure smooth reading and display of images in the gallery.
+> Loader with Uploading Status: Display a loader to indicate the uploading status during file uploads.
+> Image Modal: Click on an image to view it in a modal for a more detailed look.
+
 Libraries Used
-Multer: Multer Documentation
-Material-UI (MUI): Material-UI Documentation
+> Multer: Multer Documentation
+> Material-UI (MUI): Material-UI Documentation
 Getting Started
 Prerequisites
 Node.js and npm installed on your machine.
