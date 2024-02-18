@@ -1,47 +1,54 @@
-Image Gallery
-A dynamic image gallery project built with Multer for file uploads, Express for server-side handling, React for the frontend, and Material-UI (MUI) for a sleek and responsive user interface.
+<h1 align="center" id="title">Image-Gallery</h1>
 
-Features
-Efficient File Uploads: Utilize Multer for seamless and efficient file uploads.
-Server-Side Logic: Leverage Express for robust server-side handling and logic.
-Modern UI with Material-UI: Craft a modern and intuitive user interface using React and Material-UI components.
-ReadFile Integration: Ensure smooth reading and display of images in the gallery.
-Loader with Uploading Status: Display a loader to indicate the uploading status during file uploads.
-Image Modal: Click on an image to view it in a modal for a more detailed look.
-Libraries Used
-Multer: Multer Documentation
-Material-UI (MUI): Material-UI Documentation
-Getting Started
-Prerequisites
-Node.js and npm installed on your machine.
-Installation
-Clone the repository:
+<p id="description">A responsive image gallery crafted with Express React and Material-UI enhanced with Multer for efficient file uploads. Seamlessly read and display images with ReadFile providing a smooth user experience in a modern and intuitive interface.</p>
 
-bash
-Copy code
-git clone https://github.com/your-username/Image-Gallery.git
-Navigate to the project directory:
+  
+  
+<h2>🧐 Features</h2>
 
-bash
-Copy code
+Here're some of the project's best features:
+
+*   Efficient File Uploads: Utilize Multer for seamless and efficient file uploads.
+*   Server-Side Logic: Leverage Express for robust server-side handling and logic.
+*   Modern UI with Material-UI: Craft a modern and intuitive user interface using React with Vite and Material-UI components.
+*   ReadFile Integration: Ensure smooth reading and display of images in the gallery.
+*   Loader with Uploading Status: Display a loader to indicate the uploading status during file uploads.
+*   Image Modal: Click on an image to view it in a modal for a more detailed look.
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Node.js and npm installed on your machine.</p>
+
+<p>2. Clone the repository:</p>
+
+```
+https://github.com/Abilash-Nambi/Image-Gallery.git
+```
+
+<p>3. Navigate to the project directory:</p>
+
+```
 cd Image-Gallery
-Install dependencies:
+```
 
-bash
-Copy code
+<p>4. Install dependencies:</p>
+
+```
 npm install
-Usage
-Start the server:
+```
 
-bash
-Copy code
-npm start
-Open your browser and visit http://localhost:3000 to access the image gallery.
+<p>5. Start the Vite development server:</p>
 
-Additional Features
-Loader with Uploading Status: During file uploads, a loader will be displayed to indicate the uploading status.
+```
+npm run dev
+```
 
-Image Modal:
+  
+  
+<h2>💻 Built with</h2>
 
-Click on an image in the gallery to view it in a modal for a more detailed look.
-Close the modal by clicking outside the image or using the provided close button.
+Technologies used in the project:
+
+*   Multer
+*   Material-UI (MUI)
+*   Vite
